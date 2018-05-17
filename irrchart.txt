@@ -1,0 +1,154 @@
+IRRADIANCE MEASUREMENT RESULTS
+
+
+Spectrometer:   Channel: 1201133U1   5/6/2014   3:15:32 PM
+Diameter sampleport AvaSpere: 10000 micron
+DetectorType: AvaSphere, source outside sphere
+Smoothing parameter: 0
+Irradiance Spectrum saved to: Z:\docs\OLED-characterization\20140506-SY-CB-ITO_v_D-Au\D-Au-P3\IRRCHART0001.IRR, Intensity in: Irradiance [µWatt/cm²]
+Irradiance Chart saved to: Z:\docs\OLED-characterization\20140506-SY-CB-ITO_v_D-Au\D-Au-P3\IRRCHART0001.JPG, Intensity in: Irradiance [µWatt/cm²]
+User comments: P3B-4V
+********** Measurement results:**********
+********** Colorimetry
+DW     = 570.374nm
+CDW    = -1.000nm
+Purity = 95.49%
+x = 0.442
+y = 0.542
+z = 0.016
+X = 0.047
+Y = 0.057
+Z = 0.002
+u = 0.205
+v = 0.377
+ct = 3742.9 Kelvin
+CRI = 36.2
+********** Photometry
+Illuminance        = 41.913 [Lux]
+Luminous Flux (r)  = 3.292E-3 [Lumen]
+Luminous Flux (e)  = 0 [Lumen]   0.000 [m],   12.566 [sr]
+Luminous Intensity = 0 [Candela]   0.000 [m]
+********** Radiometry
+********** Peak Measurements from 350.00 to 800.00 nm
+Full Width Half Max   = 0.7124 [nm]
+Center Wavelength     = 732.16 [nm]
+Intensity at CWL      = 0.1053 [µWatt/cm²]
+Peak Wavelength       = 732.17 [nm]
+Intensity at Peak     = 0.1061 [µWatt/cm²]
+Centroid Wavelength   = 576.85 [nm]
+Intensity at Centroid = 0.07148 [µWatt/cm²]
+
+
+Spectrometer:   Channel: 1201133U1   5/6/2014   3:16:11 PM
+Diameter sampleport AvaSpere: 10000 micron
+DetectorType: AvaSphere, source outside sphere
+Smoothing parameter: 0
+Irradiance Spectrum saved to: Z:\docs\OLED-characterization\20140506-SY-CB-ITO_v_D-Au\D-Au-P3\IRRCHART0002.IRR, Intensity in: Irradiance [µWatt/cm²]
+Irradiance Chart saved to: Z:\docs\OLED-characterization\20140506-SY-CB-ITO_v_D-Au\D-Au-P3\IRRCHART0002.JPG, Intensity in: Irradiance [µWatt/cm²]
+User comments: P3B-5V
+********** Measurement results:**********
+********** Colorimetry
+DW     = 569.598nm
+CDW    = -1.000nm
+Purity = 95.67%
+x = 0.437
+y = 0.548
+z = 0.016
+X = 0.142
+Y = 0.178
+Z = 0.005
+u = 0.201
+v = 0.378
+ct = 3832.7 Kelvin
+CRI = 26.7
+********** Photometry
+Illuminance        = 129.82 [Lux]
+Luminous Flux (r)  = 0.01020 [Lumen]
+Luminous Flux (e)  = 0 [Lumen]   0.000 [m],   12.566 [sr]
+Luminous Intensity = 0 [Candela]   0.000 [m]
+********** Radiometry
+********** Peak Measurements from 350.00 to 800.00 nm
+Full Width Half Max   = 93.713 [nm]
+Center Wavelength     = 566.09 [nm]
+Intensity at CWL      = 0.2226 [µWatt/cm²]
+Peak Wavelength       = 544.45 [nm]
+Intensity at Peak     = 0.2754 [µWatt/cm²]
+Centroid Wavelength   = 573.78 [nm]
+Intensity at Centroid = 0.2175 [µWatt/cm²]
+
+
+Spectrometer:   Channel: 1201133U1   5/6/2014   3:16:40 PM
+Diameter sampleport AvaSpere: 10000 micron
+DetectorType: AvaSphere, source outside sphere
+Smoothing parameter: 0
+Irradiance Spectrum saved to: Z:\docs\OLED-characterization\20140506-SY-CB-ITO_v_D-Au\D-Au-P3\IRRCHART0003.IRR, Intensity in: Irradiance [µWatt/cm²]
+Irradiance Chart saved to: Z:\docs\OLED-characterization\20140506-SY-CB-ITO_v_D-Au\D-Au-P3\IRRCHART0003.JPG, Intensity in: Irradiance [µWatt/cm²]
+User comments: P3B-6V
+********** Measurement results:**********
+********** Colorimetry
+DW     = 568.755nm
+CDW    = -1.000nm
+Purity = 94.60%
+x = 0.430
+y = 0.551
+z = 0.019
+X = 0.217
+Y = 0.278
+Z = 0.010
+u = 0.196
+v = 0.378
+ct = 3937.1 Kelvin
+CRI = 29.4
+********** Photometry
+Illuminance        = 202.66 [Lux]
+Luminous Flux (r)  = 0.01592 [Lumen]
+Luminous Flux (e)  = 0 [Lumen]   0.000 [m],   12.566 [sr]
+Luminous Intensity = 0 [Candela]   0.000 [m]
+********** Radiometry
+********** Peak Measurements from 350.00 to 800.00 nm
+Full Width Half Max   = 94.267 [nm]
+Center Wavelength     = 565.87 [nm]
+Intensity at CWL      = 0.3518 [µWatt/cm²]
+Peak Wavelength       = 543.75 [nm]
+Intensity at Peak     = 0.4239 [µWatt/cm²]
+Centroid Wavelength   = 571.98 [nm]
+Intensity at Centroid = 0.3381 [µWatt/cm²]
+
+
+Spectrometer:   Channel: 1201133U1   5/6/2014   3:17:05 PM
+Diameter sampleport AvaSpere: 10000 micron
+DetectorType: AvaSphere, source outside sphere
+Smoothing parameter: 0
+Irradiance Spectrum saved to: Z:\docs\OLED-characterization\20140506-SY-CB-ITO_v_D-Au\D-Au-P3\IRRCHART0004.IRR, Intensity in: Irradiance [µWatt/cm²]
+Irradiance Chart saved to: Z:\docs\OLED-characterization\20140506-SY-CB-ITO_v_D-Au\D-Au-P3\IRRCHART0004.JPG, Intensity in: Irradiance [µWatt/cm²]
+User comments: P3B-7V
+********** Measurement results:**********
+********** Colorimetry
+DW     = 568.070nm
+CDW    = -1.000nm
+Purity = 94.37%
+x = 0.425
+y = 0.555
+z = 0.020
+X = 0.287
+Y = 0.374
+Z = 0.014
+u = 0.193
+v = 0.378
+ct = 4017.6 Kelvin
+CRI = 30.0
+********** Photometry
+Illuminance        = 273.15 [Lux]
+Luminous Flux (r)  = 0.02145 [Lumen]
+Luminous Flux (e)  = 0 [Lumen]   0.000 [m],   12.566 [sr]
+Luminous Intensity = 0 [Candela]   0.000 [m]
+********** Radiometry
+********** Peak Measurements from 350.00 to 800.00 nm
+Full Width Half Max   = 91.317 [nm]
+Center Wavelength     = 563.21 [nm]
+Intensity at CWL      = 0.4810 [µWatt/cm²]
+Peak Wavelength       = 543.06 [nm]
+Intensity at Peak     = 0.5842 [µWatt/cm²]
+Centroid Wavelength   = 570.26 [nm]
+Intensity at Centroid = 0.4633 [µWatt/cm²]
+
