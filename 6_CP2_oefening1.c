@@ -1,61 +1,33 @@
 #include <stdio.h>
-#include <stdlib.h>
+#define BESTAND "C://...//boot.log"
 
-// Uw path hier:
-#define BESTAND "C:\...\bootlog.txt"
+    FILE *fp;
+    int count = 0;
 
 int main()
 {
-    FILE * boot = NULL;
-    boot = fopen(BESTAND,"r");
-
-    if(boot == NULL)
-    {
-       printf("Can't open file\n");
-       fclose(boot);
-       exit(EXIT_FAILURE);
-    }
-
-    short int succes = 0;
-    short int fail = 0;
-    char tekst[100];
-
-    while(1) //inf loop --> danger danger 
-    {
-        if( fgets (tekst, 100, boot)!=NULL )
+    FILE* fp = fopen(BESTAND,"r");
+    char buf[60];
+        while (fgets(buf,60, fp) != NULL)
         {
-            short int t = 0;
-            if(tekst[0] == '[' && tekst[3] == 'O' && t == 0)
+            printf("\"%s\"\n", buf);
+            if(buf[3]=='O')
             {
-                succes++;
-                t++;
-                printf("%s\n", tekst);
-            }
-            else if(t == 0)
-            {
-                fail++;
-                t++;
-                printf("%s\n", tekst);
-            }
-            else if(t == 1)
-            {
-                t = 0;
+                count = count + 1;
             }
         }
-        else if (feof(boot))
+        if (feof(fp))
         {
-            printf("End Of File Reached...\n");
-            break;
+            puts("End of file reached");
         }
-        else
-        {
-            perror("Error reading file");
-            break;
-        }
-    }
-
-    printf("Het aantal processen die gelukt zijn is: %d\n", succes);
-    printf("Het aantal processen die niet gelukt zijn is: %d\n", fail);
+        printf("There's a total of %d ok's in boot.log.\n",count);
 
     return 0;
 }
+
+/*1: boot.log in linux toont welke processen er na de kernel te laden succesvol of onsuccesvol is gestart.
+Maak een programma dat het aantal succesvolle  processen starten.
+
+Maak enkel gebruik van de functie fgets()
+Wat de functie fgets() met een \n?
+Hoeveel maal moet de functie fgets() worden uitgevoerd om de volgende regel te lezen?*/
