@@ -78,6 +78,7 @@ int main()
         printf("DEBUG info: output file generated\n");
     #endif
     fclose(outputFilePointer);
+    fclose(inputFilePointer);
     free(inputPixels);
     
     return 0;
